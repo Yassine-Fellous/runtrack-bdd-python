@@ -1,0 +1,1 @@
+SELECT MA(age) FROM etudiants;
